@@ -50,7 +50,7 @@ header nav a:active {
 
 /* MAIN-MOVIE */
 main .main-movie {
-    height: 500px;
+    height: 550px;
     font-size: 16px;
     background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../images/backgrounds/background_twd.jpg');
     background-size: cover;
