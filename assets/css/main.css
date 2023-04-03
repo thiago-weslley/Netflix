@@ -6,6 +6,9 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 /* VAR */
 :root {
     --red: #E50914;
@@ -29,7 +32,7 @@ header .container {
 }
 
 header .logo {
-    width: 160px;
+    height: 50px;
     cursor: pointer;
 }
 
@@ -73,14 +76,18 @@ main .container {
 
 }
 
+.buttons {
+    max-width: 300px;
+}
+
 .button {
-    padding: 15px;
+    padding: 12px;
     background-color: rgba(0, 0, 0, .50);
     color: #FFF;
     border: none;
     cursor: pointer;
     text-transform: uppercase;
-    margin-right: 20px;
+    margin-right: 5px;
     border-radius: 4px;
 }
 .button:hover {

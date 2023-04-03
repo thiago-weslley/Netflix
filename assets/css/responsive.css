@@ -1,0 +1,94 @@
+@media screen and (max-width:1000px) {
+    .title {
+        width: 315px;
+    }
+
+    .description {
+        max-width: 315px;
+        font-size: 15px;
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width:650px) {
+    
+    header .container {
+        justify-content: space-between;
+    }
+
+    header .logo {
+        content: url('../images/logo/logo-small.png');
+        height: 50px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    
+    header .logo {
+        height: 40px;
+    }
+
+    header .container {
+        justify-content: space-around;
+    }
+
+    header nav a {
+        font-size: 12px;
+        margin: 5px;
+    }
+
+    main .main-movie {
+        background-position: 20%;
+    }
+}
+
+@media screen and (max-width:380px) {
+    
+    header .logo {
+        height: 30px;
+    }
+
+    .title {
+        width: 90%;
+    }
+
+    .description {
+        width: 90%;
+        font-size: 10px;
+    }
+
+    header .container {
+        justify-content: space-around;
+    }
+
+    header nav a {
+        font-size: 10px;
+        margin: 2px;
+    }
+
+    main .main-movie {
+        background-position: 50%;
+    }
+
+    .button {
+        font-size: 10px;
+    }
+}
+
+@media (hover: none) {
+
+    .button:hover {
+        background-color: rgba(0, 0, 0, .50);
+        color: #FFF;
+    }
+
+    header nav a:hover {
+        color: #AAA;
+    }
+
+    .box-movie:hover {
+        transform: none;
+    }
+}
+
+
