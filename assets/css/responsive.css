@@ -42,7 +42,7 @@
     }
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:390px) {
     
     header .logo {
         height: 30px;
@@ -67,7 +67,7 @@
     }
 
     main .main-movie {
-        background-position: 50%;
+        background-position: 40%;
     }
 
     .button {
