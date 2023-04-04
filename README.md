@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#house-About-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-Technologies">Technologies</a>
 </p>
 
 <br>
