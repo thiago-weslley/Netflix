@@ -50,7 +50,7 @@ header nav a:active {
 
 /* MAIN-MOVIE */
 main .main-movie {
-    height: 550px;
+    height: 700px;
     font-size: 16px;
     background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../images/backgrounds/background.jpg');
     background-size: cover;
@@ -80,9 +80,9 @@ main .container {
     max-width: 300px;
 }
 
-.button {
-    padding: 12px;
-    background-color: rgba(0, 0, 0, .50);
+.button-one {
+    padding: 14px;
+    background-color: rgb(207, 11, 11);
     color: #FFF;
     border: none;
     cursor: pointer;
@@ -90,16 +90,23 @@ main .container {
     margin-right: 5px;
     border-radius: 4px;
 }
-.button:hover {
-    background-color: #FFF;
-    color: #000;
-    transition: .4s;
+.button-two {
+    padding: 14px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-right: 5px;
+    border-radius: 4px;
 }
-.button:active {
+.button-two:active,
+.button-one:active {
     opacity: .3;
     transition: 0s;
 }
-.button i {
+.button-two i,
+.button-one i {
     margin-right: 10px;
 }
 
