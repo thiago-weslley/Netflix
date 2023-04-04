@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#house-Sobre-o-projeto">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-Technologies / Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -19,7 +19,7 @@ Este é um projeto de clone da página inicial do Netflix. Ele foi criado como u
   <img src="./assets/images/Computer-Mockup.png" width="700" style="display: block; margin: 0 auto;">
 </p>
 
-## :computer: Technologies / Tecnologias 
+## :computer: Technologies 
 
 <div>
 <p align="center">
