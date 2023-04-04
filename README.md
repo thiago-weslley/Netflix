@@ -3,13 +3,13 @@
 <br>
 
 <p align="center">
-  <a href="#house-Sobre-o-projeto">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#house-About-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-Technologies">Technologies</a>
 </p>
 
 <br>
 
-## :house: About the project / Sobre o projeto
+## :house: About the project
 
 This is a project of a clone of the Netflix homepage. It was created as an exercise to practice HTML, CSS, and JavaScript.
 <br><br>
@@ -19,7 +19,7 @@ Este é um projeto de clone da página inicial do Netflix. Ele foi criado como u
   <img src="./assets/images/Computer-Mockup.png" width="700" style="display: block; margin: 0 auto;">
 </p>
 
-## :computer: Technologies / Tecnologias 
+## :computer: Technologies 
 
 <div>
 <p align="center">
