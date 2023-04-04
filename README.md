@@ -3,13 +3,13 @@
 <br>
 
 <p align="center">
-  <a href="#house-About-the-project-/-Sobre-o-projeto">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#house-About-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :house: About the project / Sobre o projeto
+## :house: About the project
 
 This is a project of a clone of the Netflix homepage. It was created as an exercise to practice HTML, CSS, and JavaScript.
 <br><br>
