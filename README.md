@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="#house-Sobre-o-projeto">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#house-About-the-project-/-Sobre-o-projeto">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
