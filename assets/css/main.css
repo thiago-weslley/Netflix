@@ -52,7 +52,7 @@ header nav a:active {
 main .main-movie {
     height: 550px;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../images/backgrounds/background_twd.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../images/backgrounds/background.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
